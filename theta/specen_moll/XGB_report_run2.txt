@@ -1,0 +1,7 @@
+XGB — nested cross-validation run 2/5 (combined features)
+
+Split   Acc       F1        Precision   Specificity  Recall    AUC-ROC
+Train   0.97      1.00      1.00        1.00         0.99      —
+Test    0.93      0.89      0.97        0.98         0.93      0.93
+
+Hold-out weights in this folder used: {'learning_rate': 0.01, 'max_depth': 3}

@@ -1,0 +1,6 @@
+RF — nested cross-validation MEAN ± SD (runs = 5)
+
+Split   Acc           F1            Precision     Specificity   Recall        AUC-ROC
+Train   1.00 ± 0.00   0.98 ± 0.01   1.00 ± 0.00   1.00 ± 0.00   1.00 ± 0.00   —
+Test    0.81 ± 0.03   0.72 ± 0.03   0.86 ± 0.04   0.91 ± 0.03   0.72 ± 0.04   0.90 ± 0.02
+

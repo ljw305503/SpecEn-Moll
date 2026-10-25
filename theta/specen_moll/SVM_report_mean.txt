@@ -1,0 +1,6 @@
+SVM — nested cross-validation MEAN ± SD (runs = 5)
+
+Split   Acc           F1            Precision     Specificity   Recall        AUC-ROC
+Train   0.99 ± 0.01   0.98 ± 0.01   0.98 ± 0.01   0.99 ± 0.01   0.98 ± 0.01   —
+Test    0.83 ± 0.05   0.81 ± 0.08   0.83 ± 0.07   0.87 ± 0.06   0.78 ± 0.12   0.88 ± 0.02
+

@@ -1,0 +1,7 @@
+RF — nested cross-validation run 3/5 (combined features)
+
+Split   Acc       F1        Precision   Specificity  Recall    AUC-ROC
+Train   1.00      0.98      1.00        1.00         1.00      —
+Test    0.83      0.74      0.88        0.93         0.74      0.90
+
+Hold-out weights in this folder used: {'max_depth': None, 'n_estimators': 100}

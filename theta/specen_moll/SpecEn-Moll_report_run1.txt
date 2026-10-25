@@ -1,0 +1,7 @@
+SpecEn-Moll — nested cross-validation run 1/5 (combined features)
+
+Split   Acc       F1        Precision   Specificity  Recall    AUC-ROC
+Train   0.99      0.99      1.00        1.00         0.98      —
+Test    0.83      0.75      0.91        0.98         0.86      0.95
+
+Hold-out weights in this folder used: AEFM on the five base-model class probabilities

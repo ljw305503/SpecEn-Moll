@@ -1,0 +1,7 @@
+SVM — nested cross-validation run 2/5 (combined features)
+
+Split   Acc       F1        Precision   Specificity  Recall    AUC-ROC
+Train   0.98      0.99      0.99        1.00         0.96      —
+Test    0.74      0.86      0.85        0.76         0.84      0.84
+
+Hold-out weights in this folder used: {'C': 10, 'kernel': 'linear'}

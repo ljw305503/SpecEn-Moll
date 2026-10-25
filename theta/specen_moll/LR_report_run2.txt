@@ -1,0 +1,7 @@
+LR — nested cross-validation run 2/5 (combined features)
+
+Split   Acc       F1        Precision   Specificity  Recall    AUC-ROC
+Train   0.99      0.98      1.00        1.00         1.00      —
+Test    0.88      0.79      0.87        0.91         0.81      0.83
+
+Hold-out weights in this folder used: {'C': 0.1, 'penalty': 'l2'}

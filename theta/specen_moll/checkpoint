@@ -1,0 +1,2 @@
+model_checkpoint_path: "SpecEn-Moll.ckpt"
+all_model_checkpoint_paths: "SpecEn-Moll.ckpt"

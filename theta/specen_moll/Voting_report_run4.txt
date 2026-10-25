@@ -1,0 +1,7 @@
+Voting — nested cross-validation run 4/5 (combined features)
+
+Split   Acc       F1        Precision   Specificity  Recall    AUC-ROC
+Train   0.97      1.00      0.96        0.98         0.98      —
+Test    0.88      0.83      0.92        0.82         0.68      0.85
+
+Hold-out weights in this folder used: majority vote of RF, SVM, XGB, LR, KNN (threshold: >= 3 of 5)

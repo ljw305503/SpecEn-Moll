@@ -1,0 +1,7 @@
+KNN — nested cross-validation run 2/5 (combined features)
+
+Split   Acc       F1        Precision   Specificity  Recall    AUC-ROC
+Train   0.81      0.83      0.86        0.89         0.82      —
+Test    0.80      0.75      0.77        0.87         0.71      0.75
+
+Hold-out weights in this folder used: {'n_neighbors': 7}
