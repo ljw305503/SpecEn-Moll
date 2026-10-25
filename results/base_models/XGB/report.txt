@@ -1,0 +1,7 @@
+XGB — nested cross-validation MEAN ± SD (runs = 5)
+
+Split   Acc           F1            Precision     Specificity   Recall        AUC-ROC
+Train   0.98 ± 0.01   0.98 ± 0.02   0.99 ± 0.01   0.99 ± 0.01   0.97 ± 0.03   —
+Test    0.91 ± 0.02   0.89 ± 0.02   0.95 ± 0.03   0.96 ± 0.03   0.91 ± 0.04   0.94 ± 0.01
+
+Hold-out weights in this folder used: {'learning_rate': 0.01, 'max_depth': 3}
