@@ -1,0 +1,45 @@
+{
+  "n_compounds": 8871,
+  "applicability_domain": {
+    "oob_value_rate": 0.001721032702738224,
+    "rows_with_any_oob_rate": 0.25419907563972494,
+    "train_holdout_baseline_oob_rate": 0.005199101973295522,
+    "top10_oob_features": [
+      "FpDensityMorgan3",
+      "MinEStateIndex",
+      "SMR_VSA3",
+      "VSA_EState4",
+      "VSA_EState5",
+      "BCUT2D_LOGPLOW",
+      "fr_Ar_NH",
+      "fr_Nhpyrrole",
+      "MinPartialCharge",
+      "SPS"
+    ]
+  },
+  "object_columns": {
+    "n_columns": 13,
+    "n_cells": 115323,
+    "n_unseen_cells": 115026,
+    "unseen_rate": 0.9974246247496162
+  },
+  "agreement": {
+    "unanimous_rate": 0.5732160973960094,
+    "mean_agreement_with_first": 0.784308420696652,
+    "vote_distribution": {
+      "2": 2,
+      "3": 1602,
+      "4": 2182,
+      "5": 5085
+    }
+  },
+  "positive_rate": {
+    "RF_pred": 0.7228046443467478,
+    "SVM_pred": 0.999436365685943,
+    "XGB_pred": 1.0,
+    "LR_pred": 0.9993236388231316,
+    "KNN_pred": 0.6706121068650659,
+    "VOTING_pred": 0.8191861120505016,
+    "SpecEn_Moll_pred": 0.9904182166610304
+  }
+}
