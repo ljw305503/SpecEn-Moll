@@ -1,0 +1,53 @@
+======================================================================
+CLUSTER 32 COMPREHENSIVE STRUCTURAL ANALYSIS REPORT
+======================================================================
+Analysis Date: 2025-11-28 18:10:51
+Original molecules in cluster: 217
+Valid molecules processed: 217
+Success rate: 100.0%
+
+EXECUTIVE SUMMARY:
+--------------------------------------------------
+• Cluster contains 217 successfully processed molecules
+
+TOP FUNCTIONAL GROUPS:
+----------------------------------------
+Aromatic_Ring: 77.9% (169/217 molecules)
+Benzene: 77.9% (169/217 molecules)
+Tertiary_Amine: 62.2% (135/217 molecules)
+Ether: 53.5% (116/217 molecules)
+Secondary_Amine: 47.5% (103/217 molecules)
+Amide: 43.8% (95/217 molecules)
+Ester: 38.2% (83/217 molecules)
+Alcohol: 33.2% (72/217 molecules)
+Ketone: 30.4% (66/217 molecules)
+Phenol: 27.6% (60/217 molecules)
+
+SIMILARITY ANALYSIS:
+----------------------------------------
+Average intra-cluster similarity: 0.115
+Similarity range: 0.000 - 1.000
+Similarity standard deviation: 0.065
+
+STRUCTURAL DIVERSITY:
+----------------------------------------
+Heavy atoms range: 9 - 54
+Ring counts range: 0 - 9
+
+GENERATED FILES:
+--------------------------------------------------
+1. Structure visualization: D:\BS222\FSL\sjk\safe\safe1_cluster32_analysis_structures.{png,svg}
+2. Descriptor analysis: D:\BS222\FSL\sjk\safe\safe1_cluster32_analysis_descriptors.xlsx
+3. Descriptor distribution: D:\BS222\FSL\sjk\safe\safe1_cluster32_analysis_descriptors_distribution.{png,svg}
+4. Functional group analysis: D:\BS222\FSL\sjk\safe\safe1_cluster32_analysis_functional_groups.xlsx
+5. Functional group visualization: D:\BS222\FSL\sjk\safe\safe1_cluster32_analysis_functional_groups.{png,svg}
+6. Similarity matrix: D:\BS222\FSL\sjk\safe\safe1_cluster32_analysis_similarity_matrix.xlsx
+7. Similarity heatmap: D:\BS222\FSL\sjk\safe\safe1_cluster32_analysis_similarity_heatmap.{png,svg}
+8. Common core visualization: D:\BS222\FSL\sjk\safe\safe1_cluster32_analysis_common_core.{png,svg}
+9. Common core highlighted: D:\BS222\FSL\sjk\safe\safe1_cluster32_analysis_common_core_highlighted.{png,svg}
+10. Common core info: D:\BS222\FSL\sjk\safe\safe1_cluster32_analysis_common_core.txt
+11. This report: D:\BS222\FSL\sjk\safe\safe1_cluster32_analysis_analysis_report.txt
+
+======================================================================
+ANALYSIS COMPLETE
+======================================================================

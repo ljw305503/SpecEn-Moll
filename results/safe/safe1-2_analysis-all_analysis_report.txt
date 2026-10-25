@@ -1,0 +1,50 @@
+======================================================================
+CLUSTER 32 COMPREHENSIVE STRUCTURAL ANALYSIS REPORT
+======================================================================
+Analysis Date: 2025-12-01 16:37:23
+Original molecules in cluster: 1108
+Valid molecules processed: 1106
+Success rate: 99.8%
+
+EXECUTIVE SUMMARY:
+--------------------------------------------------
+• Cluster contains 1106 successfully processed molecules
+
+TOP FUNCTIONAL GROUPS:
+----------------------------------------
+Tertiary_Amine: 47.6% (527/1106 molecules)
+Benzene: 36.4% (403/1106 molecules)
+Phenyl: 36.4% (403/1106 molecules)
+Ether: 34.3% (379/1106 molecules)
+Alcohol: 34.0% (376/1106 molecules)
+Ketone: 26.3% (291/1106 molecules)
+Secondary_Amine: 25.8% (285/1106 molecules)
+Ester: 24.4% (270/1106 molecules)
+Amide: 23.9% (264/1106 molecules)
+Chlorine: 22.8% (252/1106 molecules)
+
+SIMILARITY ANALYSIS:
+----------------------------------------
+Average intra-cluster similarity: 0.073
+Similarity range: 0.000 - 1.000
+Similarity standard deviation: 0.065
+
+STRUCTURAL DIVERSITY:
+----------------------------------------
+Heavy atoms range: 2 - 54
+Ring counts range: 0 - 9
+
+GENERATED FILES:
+--------------------------------------------------
+1. Structure visualization: D:\BS222\FSL\sjk\safe\safe1-2_analysis-all_structures.{png,svg}
+2. Descriptor analysis: D:\BS222\FSL\sjk\safe\safe1-2_analysis-all_descriptors.xlsx
+3. Descriptor distribution: D:\BS222\FSL\sjk\safe\safe1-2_analysis-all_descriptors_distribution.{png,svg}
+4. Functional group analysis: D:\BS222\FSL\sjk\safe\safe1-2_analysis-all_functional_groups.xlsx
+5. Functional group visualization: D:\BS222\FSL\sjk\safe\safe1-2_analysis-all_functional_groups.{png,svg}
+6. Similarity matrix: D:\BS222\FSL\sjk\safe\safe1-2_analysis-all_similarity_matrix.xlsx
+7. Similarity heatmap: D:\BS222\FSL\sjk\safe\safe1-2_analysis-all_similarity_heatmap.{png,svg}
+8. This report: D:\BS222\FSL\sjk\safe\safe1-2_analysis-all_analysis_report.txt
+
+======================================================================
+ANALYSIS COMPLETE
+======================================================================

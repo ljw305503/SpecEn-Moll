@@ -1,0 +1,14 @@
+=== PESTICIDE MOLECULAR CHARACTERIZATION REPORT ===
+
+Total Molecules Analyzed: 1106
+Functional Groups Detected: 67
+
+
+KEY FUNCTIONAL GROUP STATISTICS:
+Phosphate: 0.013 (14个分子)
+Carbamate: 0.021 (23个分子)
+Triazole: 0.000 (0个分子)
+Chlorine: 0.228 (252个分子)
+CF3_Group: 0.064 (71个分子)
+
+=== 分析完成 ===
